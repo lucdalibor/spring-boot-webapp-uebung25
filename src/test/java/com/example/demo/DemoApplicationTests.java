@@ -10,4 +10,8 @@ class DemoApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void my_simple_unit_test() {
+		System.out.println("This is a unit test!");
+	}
 }
