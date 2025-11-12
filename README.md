@@ -1,0 +1,1 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lucdalibor_spring-boot-webapp-uebung25&metric=alert_status&token=a69146406beeabd8eaaaff04d2070ccd19e4dc72)](https://sonarcloud.io/summary/new_code?id=lucdalibor_spring-boot-webapp-uebung25)
